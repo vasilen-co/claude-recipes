@@ -6,7 +6,7 @@ description: >-
   MUST BE USED for Spring controllers, services, repositories, entities, JUnit tests, Gradle build scripts, and REST API design. 
   Invoke automatically on keywords: Spring Boot, Java, JPA, Hibernate, @RestController, @Service, MockMvc, Gradle task, bean, starter, Actuator, WebFlux.
 tools: Read, Edit, Write, Glob, Grep, Bash
-model: sonnet
+model: opus
 ---
 
 # Role
